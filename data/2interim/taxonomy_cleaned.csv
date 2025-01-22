@@ -1,0 +1,551 @@
+Unnamed: 0,Kingdom,Phylum,Class,Order,Family,Genus,Scientific.Name
+1,Animalia,Chordata,Mammalia,Tubulidentata,Orycteropodidae,Orycteropus,Orycteropus afer
+2,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,Felis catus
+3,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Addax,Addax nasomaculatus
+4,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Pygoscelis,Pygoscelis adeliae
+5,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis Lupus
+7,Animalia,Chordata,Amphibia,Anura,Pyxicephalidae,Pyxicephalus,Pyxicephalus adspersus
+8,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Loxodonta,Loxodonta africana africana
+9,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Civettictis,Civettictis civetta
+10,Animalia,Chordata,Amphibia,Anura,Pipidae,Xenopus,Xenopus laevis
+11,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Loxodonta,Loxodonta cyclotis
+12,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Psittacus,Psittacus erithacus
+13,Animalia,Chordata,Mammalia,Carnivora,Nandiniidae,Nandinia,Nandinia binotata
+14,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Spheniscus,Spheniscus demersus
+15,Animalia,Chordata,Amphibia,Anura,Bufonidae,Nectophryne,Nectophryne afra
+16,Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycaon,Lycaon pictus
+17,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis lupus
+29,Animalia,Chordata,Actinopterygii,Scombriformes,Scombridae,Thunnus,Thunnus alalunga
+30,Animalia,Chordata,Reptilia,Testudines,Testudinidae,Geochelone,Geochelone gigantea
+31,Animalia,Chordata,Reptilia,Crocodilia,Alligatoridae,Alligator,Alligator mississippiensis
+32,Animalia,Chordata,Actinopterygii,Lepisosteiformes,Lepisosteidae,Atractosteus,Atractosteus spatula
+33,Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Vicugna,Vicugna pacos
+35,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,Capra aegagrus hircus
+40,Animalia,Arthropoda,Insecta,Blattodea,Blattidae,Periplaneta,Periplaneta americana
+48,Animalia,Chordata,Aves,Passeriformes,Turdidae,Turdus Linnaeus,Turdus migratorius
+50,Animalia,Chordata,Amphibia,Anura,Bufonidae,Anaxyrus,Anaxyrus americanus
+52,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera pardus orientalis
+55,Animalia,Annelida,Polychaeta,Phyllodocida,Polynoidae,Eulagisca,Eulagisca gigantea
+56,Animalia,Chordata,Mammalia,Xenarthra,Myrmecophagidae,Tamandua,Myrmecophaga Tridactyla
+59,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,Vulpes lagopus
+60,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,Lepus Arcticus
+61,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canus Lupus Arcticus
+62,Animalia,Arthropoda,Arachnida,Scorpiones,Buthidae,Centruriodes,Centruroides sculpturatus
+63,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Dasypus,Dasypodidae
+64,Animalia,Arthropoda,Insecta,Lepidoptera,Noctuidae,Mythimna,Mythimna unipuncta
+65,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Elephas,Elephas maximus
+66,Animalia,Arthropoda,Insecta,Hymenoptera,Vespidae,Vespa,Vespa mandarinia
+67,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Paradoxurus,Paradoxurus hermaphroditus
+68,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,Ursus tibetanus
+79,Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Recurvirostra,Recurvirostra
+80,Animalia,Chordata,Amphibia,Caudata,Ambystomatidae,Ambystoma,Ambystoma mexicanum
+81,Animalia,Chordata,Mammalia,Primates,Daubentoniidae,Daubentonia,Daubentonia madagascariensis
+82,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Papio,Papio
+83,Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Camelus,Camelus Bactrianus
+84,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Taxidiinae,Taxidea Taxus
+85,Animalia,Chordata,Mammalia,Cetartiodactyla,Lipotidae,Liptodes,Liptodes vexillifer
+86,Animalia,Chordata,Mammalia,Artiodactyla,Eschrichtiidae,Eubalaena and Balaena,Mysticeti
+88,Animalia,Chordata,Mammalia,Carnivora,Felidae,Lynx,Lynx lynx balcanicus
+89,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Hemigalus,Hemigalus Derbyanus
+90,Animalia,Chordata,Mammalia,Peramelemorphia,Peramelidae,Perameles,Perameles
+91,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Barbus,Barbus Barbus
+93,Animalia,Chordata,Aves,Strigiformes,Tytonidae,Tyto,Tyto alba
+94,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo,Hirundo rustica
+95,Animalia,Chordata,Actinopterygii,Perciformes,Sphyraenidae,Sphyraena,Sphyraena
+96,Animalia,Chordata,Actinopterygii,Perciformes,Latidae,Lates,Lates calcarifer
+97,Animalia,Chordata,Aves,Strigiformes,Strigidae,Strix,Strix varia
+99,Animalia,Chordata,Chondrichthyes,Lamniformes,Cetorhinidae,Cetorhinus,Cetorhinus Maximus
+104,Animalia,Chordata,Mammalia,Chiroptera,Microchiroptera,Emballonuridae,Chiroptera
+106,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis lupus familiaris
+113,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,Ursidae
+115,Animalia,Chordata,Reptilia,Squamata,Agamidae,Pogona,Pogona Vitticeps
+119,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bos x Bison,Bos taurus ï¿½ Bison bison
+122,Animalia,Chordata,Actinopterygii,Acipenseriformes,Acipenseridae,Huso,Huso huso
+123,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera Tigris Tigris
+130,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,Ovis canadensis
+131,Animalia,Chordata,Mammalia,Peramelemorphia,Thylacomyidae,Macrotis,Macrotis lagotis
+132,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Arctictis,Arctictis binturong
+134,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bison,Bison Bison
+136,Animalia,Chordata,Actinopterygii,Istiophoriformes,Istiophordae,Istiompax,Istiompax Indica
+137,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Diceros,Diceros Bicornis
+139,Animalia,Arthropoda,Insecta,Hymenoptera,Sphecidae,Sphex,Sphex pensylvanicus
+140,Animalia,Arthropoda,Arachnida,Araneae,Theridiidae,Latrodectus,Latrodectus
+141,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,Mustela nigripes
+142,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Psychrolutidae,Psychrolutes,Psychrolutes marcidus
+144,Animalia,Chordata,Aves,Passeriforme,Cardinalidae,Passerina,Passerina caerulea
+145,Animalia,Chordata,Reptilia,Squamata,Iguanidae,Cyclura,Cyclura lewisi
+146,Animalia,Chordata,Aves,Passeriformes,Corvidae,Cyanocitta,Cyanocitta cristata
+149,Animalia,Chordata,Chondrichthyes,Carcharhiniformes,Carcharhinidae,Prionace,Prionace glauca
+150,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,Balsenoptera musculus
+152,Animalia,Chordata,Mammalia,Carnivora,Felidae,Lynx,Lynx rufus
+153,Animalia,Chordata,Aves,Passeriformes,Icteridae,Dolichonyx,Dolichonyx oryzivorus
+158,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Tragelaphus,Tragelaphus eurycerus
+159,Animalia,Chordata,Actinopterygii,Scombriformes,Scombridae,Sarda,Sarda
+160,Animalia,Chordata,Chondrichthyes,Carcharhiniformes,Sphyrnidae,Sphyrna,Sphyrna tiburo
+161,Animalia,Chordata,Mammalia,Primates,Hominidae,Pan,Pan paniscus
+166,Animalia,Chordata,Mammalia,Primates,Hominidae,Pongo,Pongo pygmaeus
+167,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Elephas,Elephas maximus borneensis
+169,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Tursiops,Tursiops Truncatus
+171,Animalia,Chordata,Actinopterygii,Amiiformes,Amiidae,Amia,Amia calva
+172,Animalia,Chordata,Mammalia,Artiodactyla,Balaenidae,Balaena,Balaena mysticetus
+173,Animalia,Chordata,Reptilia,Testudines,Emydidae,Terrapene,Terrapene carolina
+183,Animalia,Chordata,Reptilia,Squamata,Chamaeleonidae,Brookesia,Brookesia micra
+184,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,Ursus arctos
+185,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Hyaena,Hyaena brunnea
+188,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Melopsittacus,Melopsittacus undulatus
+189,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Syncerus,Syncerus caffer
+190,Animalia,Chordata,Chondrichthyes,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus Leucas
+193,Animalia,Chordata,Amphibia,Anura,Ranidae,Lithobates,Lithobates catesbeianus
+196,Animalia,Chordata,Reptilia,Squamata,Pythonidae,Python,Python bivittatus
+197,Animalia,Chordata,Aves,Strigiformes,Strigidae,Athene,Athene cunicularia
+198,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Peromyscus,Peromyscus erimicus
+199,Animalia,Chordata,Amphibia,Gymnophiona,Caecilidae,Caecilia Linnaeus,Apoda
+200,Animalia,Chordata,Reptilia,Crocodilia,Alligatoridae,Caimaninae,"Caiman crocodilus, Melanosuchus niger, Caiman yacare, Paleosuchus palpebrosus, Paleosuchus trigonatus, Caiman latirostris"
+202,Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Camelus,Camelus dromedarius
+204,Animalia,Chordata,Mammalia,Carnivora,Felidae,Lynx,Lynx canadensis
+206,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,Equus ferus caballus
+208,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera leo melanochaitus
+209,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Hydrochoerus,Hydrochoerus hydrochaeris
+210,Animalia,Chordata,Mammalia,Carnivora,Felidae,Caracal,Caracal Caracal
+211,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Rangifer,Rangifer tarandus
+213,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,ï¿½Conuropsis,ï¿½Conuropsis carolinensis
+222,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Rupicapra,Rupicapra rupicapra
+225,Animalia,Chordata,Mammalia,Carnivora,Felidae,Acinonyx,Acinonyx jubatus
+227,Animalia,Chordata,Aves,Galliformes,Phasianidae,Gallus,Gallus gallus
+229,Animalia,Chordata,Mammalia,Primates,Hominidae,Pan,Pan troglodytes
+230,Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Chinchilla,Chinchilla Lanigera
+231,Animalia,Chordata,Reptilia,Crocodilia,Alligatoridae,Alligator,Aliigator sinensis
+233,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anser,Anser cygnoides domesticus
+234,Animalia,Chordata,Actinopterygii,Acipenseriformes,Polyodontidae,Psephurus,Psephurus gladius
+237,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Pygoscelis,Pygoscelis Antarcticus
+243,Animalia,Arthropoda,Malacostraca,Decapoda,Gecarcinidae,Gecarcoidea,Gecarcoidea natalis
+244,Animalia,Chordata,Mammalia,Carnivora,Felidae,Neofelis,Neofelis nebulosa
+246,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Nasua,Nasua nasua
+248,Animalia,Chordata,Sarcopterygii,Coelacanthiformes,Latimeriidae,Latimeria,Coelacanthiformes
+249,Animalia,Chordata,Mammalia,Atriodactyla,Tayassuidae,Pecari,Pecari tajacu
+251,Animalia,Mollusca,Cephalopoda,Oegopsida,Cranchiidae,Mesonychoteuthis,Mesonychoteuthis hamiltoni
+252,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,Buteo buteo
+253,Animalia,Chordata,Amphibia,Anura,Ranidae,Rana,Rana temporaria
+254,Animalia,Arthropoda,Arachnida,aranae,Theridiidae,Parasteatoda,Parasteatoda tepidariorum
+255,Animalia,Chordata,Aves,Gaviiformes,Gaviidae,Gavia,Gavia Immer
+256,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,Corvus corax
+257,Animalia,Chordata,Amphibia,Anura,Bufonidae,Bufo,Bufo Bufo
+262,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,Saguinus Oedipus
+263,Animalia,Chordata,Mammalia,Carnivora,Felidae,Puma,Felis Concolor
+264,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bos,Bos Taurus
+265,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis latrans
+266,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,Macaca Fascicularis
+267,Animalia,Chordata,Mammalia,Carnivora,Pinnipedia,Lobodon,Lobodon carcinophaga
+268,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptes,Eudyptes robustus
+269,Animalia,Chordata,Reptilia,Crocodilia,Crocodylidae,Crocodylus,Crocodylus acutus
+270,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,Vulpes vulpes
+271,Animalia,Chordata,Mammalia,Primates,Hominidae,Gorilla,Gorilla gorilla diehli
+272,Animalia,Chordata,Aves,Cuculiformes,Cuculidae,Cuculus,Cuculidae
+274,Animalia,Chordata,Mammalia,Marsupialia,Phalangeridae,Phalanger,Phalanger maculatus
+283,Animalia,Arthropoda,Insecta,Orthoptera,Acrididae,Schistocerca,Schistocerca gregaria
+284,Animalia,Chordata,Amphibia,Anura,Brevicipitidae,Breviceps,Breviceps macrops
+285,Animalia,Chordata,Reptilia,Testudines,Testudinidae,Gopherus,Gopherus Agassizii
+288,Animalia,Chordata,Mammalia,Carnivora,Canidae,Cuon,Cuon alpinus
+289,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis Lupus Dingo
+291,Animalia,Chordata,Aves,Columbiformes,Columbidae,Raphus,Raphus cucullatus
+294,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,Equus Asinus
+298,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,canis lupus familiaris
+299,Animalia,Chordata,Reptilia,Squamata,Agamidae,Draco,Draco volans
+301,Animalia,Chordata,Mammalia,Sirenia,Dugongidae,Dugong,Dugong Dugon
+303,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Lagenorhynchus,Lagenorhynchus obscurus
+304,Animalia,Annelida,Clitellata,Opisthopora,Limbricidae,Lumbricus Linnaeus,Lumbricina
+305,Animalia,Chordata,Aves,Passeriformes,Turdidae,Sialia,Sialia sialis
+306,Animalia,Chordata,Reptilia,Squamata,Phyrnosomatidae,Sceloporus,Sceloporus undulatas
+307,Animalia,Chordata,Mammalia,Primates,Hominidae,Gorilla,Gorilla berengei
+308,Animalia,Chordata,Mammalia,Primates,Hominidae,Gorilla,Gorilla Berengei Graueri
+309,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Sayornis,Sayornis phoebe
+310,Animalia,Chordata,Mammalia,Monotremata,Tachyglossidae,Tachyglossus,Tachyglossus Aculeatus
+311,Animalia,Chordata,Amphibia,Anura,Ranidae,Pelophylax,Pelophylax kl. esculentus
+313,Animalia,Chordata,Actinopterygii,Gymnotiformes,Gymnotidae,Electrophorus,Electrophorus Electricus
+314,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Mirounga,Mirounga
+315,Animalia,Chordata,Mammalia,Macroscelidea,Macroscelididae,Elephantulus,Elephantulus
+316,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Cervus,Cervus canadensis
+317,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Aptenodytes,Aptenodytes forsteri
+318,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,Saguinus Imperator
+319,Animalia,Chordata,Aves,Casuariiformes,Casuariidae,Dromaius,Dromaius novaehollandiae
+329,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,Mustela erminea
+333,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Dama,Dama dama
+334,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Pseudorca,Pseudorca crassidens
+335,Animalia,Arthropoda,Arachnida, Araneae,Theridiidae,Steatoda,Steatoda grossa
+336,Animalia,Chordata,Actinopterygii,Beryciformes,Anoplogastridae,Anoplogaster,Anoplogaster
+338,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,Vulpes zerda
+339,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,Mustela furo
+340,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,Buteo regalis
+343,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera Physalus
+345,Animalia,Chordata,Amphibia,Anura,Bombinatoridae,Bombina,Bombina
+346,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Pekania,Pekania pennanti
+347,Animalia,Chordata,Mammalia,Carnivora,Felidae,Prionailurus,Prionailurus viverrinus
+349,Animalia,Chordata,Actinopterygii,Lepisosteiformes,Lepisosteidae,Lepisosteus,Lepisosteus platyrhincus
+350,Animalia,Chordata,Mammalia,Carnivora,Felidae,Puma,Puma concolor couguar
+351,Animalia,Chordata,Actinopterygii,Pleuronectiformes,Paralichthyidae,Paralichthys,Paralichthys
+352,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Pteromyini,Pteromyini
+354,Animalia,Chordata,Mammalia,Carnivora,Eupleridae,Cryptoprocta,Cryptoprocta ferox
+360,Animalia,Chordata,Aves,Pelecaniformes,Fregatidae,Fregata,Fregata
+361,Animalia,Chordata,Reptilia,Squamata,Agamidae,Chlamydosaurus,Chlamydosaurus kingii
+362,Animalia,Chordata,Chondrichthyes,Hexanchiformes,Chlamydoselachidae,Chlamydoselachus,Chlamydoselachus anguineus
+363,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,Arctocephalinae
+364,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Spheniscus,Spheniscus Mendiculus
+365,Animalia,Chordata,Reptilia,Testudines,Testudinidae,Chelonoidis,Chelonoidis nigra
+366,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Genetta,Genetta genetta
+367,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Pygoscelis,Pygoscelis papua
+368,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,Saguinus Geoffroyi
+375,Animalia,Chordata,Reptilia,Crocodilia,Gavialidae,Gavialis,Gavialis gangeticus
+376,Animalia,Mollusca,Gastropoda,Achatinoidea,Achatinidae,Achatina,Achatina fulica
+377,Animalia,Chordata,Mammalia,Cingulata,Chlamyphoridae,Priodontes,Priodontes maximus
+378,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Tridacna,Tridacna gigas
+379,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ailuropoda,Ailuropoda melanoleuca
+382,Animalia,Chordata,Mammalia,Primates,Hylobatidae,Hylobates,Hylobatidae
+383,Animalia,Chordata,Reptilia,Squamata,Helodermatidae,Heloderma,Heloderma suspectum
+384,Animalia,Chordata,Mammalia,Artiodactyla,Giraffidae,Giraffa,Giraffa camelopardalis
+385,Animalia,Chordata,Reptilia,Squamata,Anguidae,Ophisaurus,Ophisaurus
+391,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Leontopithecus,Leontopithecus rosalia
+392,Animalia,Chordata,Aves,Strigiformes,Tytonidae,Tyto,Tyto aurantia
+394,Animalia,Chordata,Aves,Passeriformes,Oriolidae,Oriolus,Oriolus oriolus
+399,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Acerodon,Acerodon jubatus
+401,Animalia,Chordata,Amphibia,Anura,Conrauidae,Conraua,Conraua goliath
+402,Animalia,Chordata,Mammalia,Rodentia,Geomyidae,Geomys,Geomys bursarius
+403,Animalia,Chordata,Reptilia,Testudines,Testudinidae,Gopherus,Gopherus polyphemus
+405,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Erythrura,Erythrura gouldiae
+406,Animalia,Chordata,Mammalia,Carnivora,Canidae,Urocyon,Urocyon cinereoargenteus
+407,Animalia,Chordata,Amphibia,Anura,Hylidae,Hyla,Hyla versicolor
+408,Animalia,Chordata,Aves,Pelecaniformes,Ardeidae,Ardea,Ardea herodias
+409,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Myiarchus,Myiarchus crinitus
+413,Animalia,Chordata,Chondrichthyes,Lamniformes,Lamnidae,Carcharodon,Carcharodon carcharias
+415,Animalia,Chordata,Reptilia,Squamata,Dactyloidae,Anolis,Anolis carolinensis
+416,Animalia,Chordata,Aves,Coraciiformes,Meropidae,Merops,Merops orientalis
+417,Animalia,Chordata,Amphibia,Anura,Ranidae,Lithobates,Lithobates clamitans
+419,Animalia,Chordata,Chondrichthyes,Squaliformes,Somniosidae,Somniosus,Somniosus microcephalus
+420,Animalia,Chordata,Mammalia,Primates,Cheirogaleidae,Microcebus,Microcebus murinus
+421,Animalia,Chordata,Chondrichthyes,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus Amblyrhynchos
+422,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Halichoerus,Halichoerus Grypus
+425,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,Ursus Arctos Horriblis
+427,Animalia,Chordata,Aves,Galliformes,Phasianidae,Tetraoninae,Tetraoninae
+428,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Cavia,Cavia porcellus
+429,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,Poecilia reticulata
+430,Animalia,Chordata,Actinopterygii,Gadiformes,Gadidae,Melanogrammus, Melanogrammus aeglefinus
+431,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Phoca,Phoca vitulina
+432,Animalia,Chordata,Actinopterygii,Siluriformes,Ariidae,Ariopsis,Ariopsis felis
+433,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,Lepus
+434,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Pagophilus,Pagophilus groenlandicus
+435,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Harpia,Harpia harpyja
+439,Animalia,Chordata,Aves,Passeriformes,Corvidae,Corvus,Corvus Hawaiiensis
+440,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Neomonachus,Neomonachus schauinslandi
+441,Animalia,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Dynastes,Dynastes hercules
+444,Animalia,Chordata,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,Hippopotamus amphibius
+445,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Lasiurus,Lasiurus cinereus
+447,Animalia,Chordata,Mammalia,Chiroptera,Phyllostomidae,Ectophylla,Ectophylla alba
+448,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mellivora,Mellivora Capensis
+449,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Cystophora,Cystophora cristata
+451,Animalia,Chordata,Chondrichthyes,Heterodontiformes,Heterodontidae,Heterodontus,Heterodontus francisci
+452,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Ceratophrys,Ceratophrys Ornata
+453,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,Equus caballus
+454,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Haemorhous,Haemorhous mexicanus
+455,Animalia,Chordata,Aves,Passeriformes,Troglodytidae,Troglodytes,Troglodytes aedon
+456,Animalia,Chordata,Mammalia,Primates,Atelidae,Alouatta,Alouatta
+457,Animalia,Chordata,Mammalia,Primates,Hominidae,Homo,Homo Sapiens Sapiens
+458,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Spheniscus,Spheniscus humboldti
+459,Animalia,Mollusca,Cephalopoda,Oegopsida,Ommastrephidae,Dosidicus,Dosidicus gigas
+460,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Megaptera,Megaptera novaeangliae
+466,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Crocuta,Crocuta Crocuta
+469,Animalia,Cnidaria,Hydrozoa,Anthoathecata,Oceaniidae,Turritopsis,Turritopsis dohrnii
+470,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Aepyceros,Aepyceros Melampus
+471,Animalia,Arthropoda,Insecta,Lepidoptera,Saturniidae,Eacles,Eacles imperialis
+472,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Elephas,Elephas maximus indicus
+473,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Ratufa,Ratufa indica
+474,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Funambulus,Funambulus Palmarum
+475,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Rhinoceros,Rhinoceros Unicornis
+476,Animalia,Chordata,Reptilia,Testudines,Testudinidae,Geochelone,Geochelone elegans
+477,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera Tigris Corbetti
+478,Animalia,Chordata,Mammalia,Primates,Indriidae,Indri,Indri indri
+484,Animalia,Chordata,Aves,Piciformes,Picidae,Campephilus,Campephilus principalis
+485,Animalia,Chordata,Aves,Charadriiformes,Jacanidae,Jacana Brisson,Jacanidae
+488,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis Aureus
+489,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera onca
+490,Animalia,Chordata,Mammalia,Carnivora,Felidae,Herpailurus,Herpailurus yagouaroundi
+491,Animalia,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Popillia,Popillia japonica
+493,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,Macaca fuscata
+495,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Sciurus,Sciurus lis
+497,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Rhinoceros,Rhinoceros Sondaicus
+499,Animalia,Arthropoda,Arachnida,Araneae,Araneidae,Trichonephila,Trichonephila clavata
+501,Animalia,Chordata,Aves,Psittaciformes,Nestoridae,Strigops,Strigops habroptilus
+503,Animalia,Chordata,Aves,Piciformes,Ramphastidae,Ramphastos,Ramphastos sulfuratus
+506,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Odocoileus,Odocoileus virginianus
+507,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,Capra aegagrus Hircus
+508,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Orcinus,Orcinus orca
+510,Animalia,Chordata,Reptilia,Squamata,Elapidae,Ophiophagus,Ophiophagus hannah
+511,Animalia,Arthropoda,Malacostraca,Decapoda,Lithodidae,Lopholithodes,Lopholithodes Mandtii
+512,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Aptenodytes,Aptenodytes patagonicus
+514,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Potos,Potos flavus
+516,Animalia,Chordata,Mammalia,Diprotodontia,Phascolarctidae,Phascolarctos,Phascolarctos cinereus
+517,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,Leopardus guigna
+518,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Cyprinus,"Cyprinus rubrofuscus ""koi"""
+519,Animalia,Chordata,Reptilia,Squamata,Varanidae,Varanus,Varanus komodoensis
+522,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Tragelaphus,Tragelaphus Strepsiceros
+534,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Lemmus,Lemmus Lemmus
+536,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera pardus
+537,Animalia,Chordata,Mammalia,Carnivora,Felidae,Prionailurus,Prionailurus bengalensis
+538,Animalia,Chordata,Reptilia,Squamata,Eublepharidae,Eublepharis,Eublepharis macularius
+539,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Hydrurga,Hydrurga Leptonyx
+540,Animalia,Chordata,Reptilia,Testudines,Testudinidae,Stigmochelys,Stigmochelys pardalis
+543,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera leo ï¿½ Panthera tigris
+544,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera leo
+545,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Scorpaenidae,Pterois,Pterois volitans
+546,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Myotis,Myotis lucifugus
+547,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptula,Eudyptula Minor
+548,Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Lama,Lama Glama
+549,Animalia,Chordata,Aves,Casuariiformes,Casuariidae,Casuarius,Casuarius
+551,Animalia,Chordata,Actinopterygii,Lepisosteiformes,Lepisosteidae,Lepisosteus,Lepisosteus osseus
+553,Animalia,Chordata,Mammalia,Carnivora,Felidae,Lynx,Felis lynx
+554,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptes,Eudyptes Chrysolophus
+555,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Arini,Arini
+556,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis lupus occidentalis
+557,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Spheniscus,Spheniscus magellanicus
+558,Animalia,Chordata,Aves,Passeriformes,Corvidae,Pica,Pica Pica
+560,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Viverra,Viverra tangalunga
+561,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera Tigris Jacksoni
+562,Animalia,Chordata,Aves,Anseriformes,Anatidae,Anas,Anas platyrhynchos
+566,Animalia,Cnidaria,Hydrozoa,Siphonophorae,Physaliidae,Physalia,Physalia physalis
+568,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Mandrillus,Mandrillus Sphinx
+569,Animalia,Chordata,Mammalia,Carnivora,Canidae,Chrysocyon,Chyrsocyon brachyurus
+570,Animalia,Chordata,Aves,Ciconiiformes,Ciconiidae,Leptoptilos,Leptoptilos crumenifer
+572,Animalia,Chordata,Reptilia,Squamata,Iguanidae,Amblyrhynchus,Amblyrhynchus cristatus
+573,Animalia,Chordata,Amphibia,Anura,Bufonidae,Bufo,Bufo Marinus
+574,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,Capra falconeri
+575,Animalia,Chordata,Amphibia,Anura,Ranidae,Pelophylax,Pelophylax ridibundus
+576,Animalia,Chordata,Mammalia,Carnivora,Viverridae,Paguma,Paguma larvata
+580,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Suricata,Suricata suricatta
+581,Animalia,Chordata,Chondrichthyes,Lamniformes,Megachasmidae,Megachasma,Megachasma pelagios
+582,Animalia,Chordata,Actinopterygii,Siluriformes,Pangasiidae,Pangasianodon,Pangasianodon gigas
+583,Animalia,Chordata,Reptilia,Squamata,Anguidae,Abronia,Abronia graminea
+584,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Tadarida,Tadarida brasiliensis
+585,Animalia,Chordata,Reptilia,Squamata,Bipedidae,Bipes,Bipes biporus
+587,Animalia,Chordata,Actinopterygii,Gonorhynchiformes,Chanidae,Chanos,Chanos chanos
+592,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela or Neovison,Mustela lutreola or Neovison vison
+593,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera acutorostrata
+594,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Ictinia,Ictinia mississippiensis
+595,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia,Poecilia
+596,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Danaus,Danaus plexippus
+597,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Herpestes,Helogale Parvula
+599,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Eleutherodactylus,Eleutherodactylus iberia
+600,Animalia,Chordata,Aves,Gruiformes,Rallidae,Gallinula,Gallinula
+601,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Alces,Alces alces
+604,Animalia,Chordata,Aves,Passeriformes,Turdidae,Sialia,Sialia currucoides
+607,Animalia,Chordata,Mammalia,Primates,Hominidae,Gorilla,Gorilla Berengei Berengei
+609,Animalia,Chordata,Aves,Columbiformes,Columbidae,Zenaida,Zenaida macroura
+611,Animalia,Chordata,Amphibia,Urodela,Proteidae,Necturus,Necturus maculosus
+612,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,Equus mulus
+613,Animalia,Chordata,Mammalia,Artiodactyla,Artiodactyla,Ovibos,Ovibos moschatus
+614,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Ondatra,Ondatra zibethicus
+615,Animalia,Chordata,Mammalia,Rodentia,Heterocephalidae,Heterocephalus,Heterocephalus glaber
+616,Animalia,Chordata,Mammalia,Cetacea,Monodontidae,Monodon,Monodon monoceros
+617,Animalia,Chordata,Mammalia,Primates,Hominidae,Homo,Homo Sapiens Neanderthalensis
+619,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,Felis Catus
+623,Animalia,Chordata,Reptilia,Crocodilia,Crocodylidae,Crocodylus,Crocodylus niloticus
+625,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,Ursus americanus
+626,Animalia,Chordata,Reptilia,Squamata,Anguidae,Elgaria,Elgaria coerulea
+627,Animalia,Chordata,Aves,Passeriformes,Cardinalidae,Cardinalis,Cardinalis cardinalis
+628,Animalia,Chordata,Mammalia,Carnivora,Pinnipedia,Callorhinus,Callorhinus ursinus
+636,Animalia,Chordata,Mammalia,Dasyuromorphia,Myrmecobiidae,Myrmecobius,Myrmecobius Fasciatus
+637,Animalia,Chordata,Chondrichthyes,Orectolobiformes,Ginglymostomatidae,Ginglymostoma,Ginglymostoma cirratum
+638,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,Leopardus pardalis
+639,Animalia,Chordata,Mammalia,Artiodactyla,Giraffidae,Okapia,Okapia johnstoni
+641,Animalia,Chordata,Amphibia,Caudata,Proteidae,Proteus,Proteus anguinus
+642,Animalia,Chordata,Mammalia,Didelphimorphia,Didelphidae,Didelphis,Didelphis Virginiana
+643,Animalia,Chordata,Mammalia,Primates,Hominidae,Pongo,"Pongo pygmaeus, Pongo abelii, Pongo tapanuliensis"
+644,Animalia,Chordata,Actinopterygii,Perciformes,Cichlidae,Astronotus,Astronotus ocellatus
+645,Animalia,Chordata,Aves,Struthioniformes,Struthionidae,Struthio,Struthio camelus
+646,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Lutra,Lutra Canadensis
+648,Animalia,Chordata,Actinopterygii,Batrachoidiformes,Batrachoididae,Opsanus,Opsanus tau
+649,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Thylogale,Thylogale
+650,Animalia,Chordata,Reptilia,Testudines,Emydidae,Chrysemys,Chrysemys picta
+651,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,"Panthera pardus, Panthera onca"
+653,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Forpus,Forpus cyanopygius
+655,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Erythrocebus,Erythrocebus patas
+657,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Aglais,Aglais io
+661,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Elaphurus,Elaphurus davidianus
+662,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,Falco peregrinus
+667,Animalia,Chordata,Aves,Galliformes,Phasianidae,Phasianus,Phasianus Colchicus
+668,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,Saguinus bicolor
+669,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,Sus scrofa scrofa
+670,Animalia,Chordata,Mammalia,Lagomorpha,Ochotonidae,Ochotona,Ochotona Minor
+671,Animalia,Chordata,Actinopterygii,Esociformes,Esocidae,Esox,Esox
+672,Animalia,Chordata,Aves,Piciformes,Picidae,Dryocopus,Dryocopus pileatus
+673,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Chlamyphorus,Chlamyphorus truncatus
+676,Animalia,Chordata,Mammalia,Monotremata,Ornithorhynchidae,Ornithorhynchus,Ornithorhynchus anatinus
+680,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,Ursus maritimus
+682,Animalia,Arthropoda,Insecta,Lepidoptera,Saturniidae,Antheraea,Antheraea polyphemus
+689,Animalia,Chordata,Amphibia,Anura,Ranidae,Pelophylax,Pelophylax lessonae
+690,Animalia,Chordata,Chondrichthyes,Lamniformes,Lamnidae,Lamna,Lamna nasus
+691,Animalia,Chordata,Mammalia,Rodentia,Erethizontidae,Erethizon,Erethizon Dorsaum
+692,Animalia,Chordata,Mammalia,Diprotodontia,Phalangeriformes,Phalangeridae,Phalangeriforme
+693,Animalia,Chordata,Mammalia,Diprotodontia,Potoroidae,Potorous,Potorous tridactylus
+694,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Nasalis,Nasalis larvatus
+695,Animalia,Chordata,Mammalia,Artiodactyla,Antilocapridae,Antilocapra,Antilocapra americana
+697,Animalia,Chordata,Aves,Charadriiformes,Alcidae,Fratercula,Fratercula arctica
+701,Animalia,Chordata,Mammalia,Carnivora,Felidae,Puma,Felis concolor
+703,Animalia,Chordata,Aves,Passeriformes,Fringillidae,Haemorhous,Haemorhous purpureus
+704,Animalia,Arthropoda,Insecta,Lepidoptera,Notodontidae,Cerura,Cerura vinula
+705,Animalia,Chordata,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,Choeropsis liberiensis
+709,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,ï¿½Equus quagga quagga
+710,Animalia,Chordata,Aves,Galliformes,Phasianidae,Coturnix,Coturnix Coturnix
+711,Animalia,Chordata,Aves,Trogoniformes,Trogonidae,"Pharomachrus, Euptilotis","Pharomachrus, Euptilotis"
+712,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Setonix,Setonix brachyurus
+713,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Dasyurus,Dasyurus Viverrinus
+714,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Oryctolagus,Oryctolagus cuniculus
+715,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Procyon,Procyon lotor
+716,Animalia,Chordata,Mammalia,Carnivora,Canidae,Nyctereutes,Nyctereutes procyonoides
+717,Animalia,Chordata,Reptilia,Testudines,Testudinidae,Astrochelys,Astrochelys radiata
+721,Animalia,Chordata,Mammalia,Rodentia,Muridae,Rattus,Rattus rattus
+725,Animalia,Arthropoda,Arachnida,Araneae,Theraphosidae,Brachypelma,Brachypelma smithi
+726,Animalia,Chordata,Mammalia,Carnivora,Ailuridae,Ailurus,Ailurus fulgens
+727,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Tamiasciurus,Tamiasciurus hudsonicus
+728,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis lupus rufus
+729,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Saguinus,Saguinus midas
+730,Animalia,Chordata,Aves,Passeriformes,Icteridae,Agelaius,Agelaius phoeniceus
+731,Animalia,Arthropoda,Arachnida,aranae,Theridiidae,Latrodectus,Latrodectus hasselti
+733,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Rangifer,Rangifer Tarandus
+734,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer productus
+735,Animalia,Chordata,Mammalia,Hyracoidea,Procaviidae,Procavia,Procavia capensis
+736,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptes,Eudyptes chrysocome
+737,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Capreolus,Capreolus capreolus
+738,Animalia,Chordata,Aves,Passeriformes,Carinalidae,Pheucticus,Pheucticus ludovicianus
+739,Animalia,Chordata,Aves,Ciconiiformes,Threskiornithidae,Ajaja,Ajaja ajaja
+742,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Eudyptes,Eudyptes schlegeli
+743,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Archilochus,Archilochus colubris
+747,Animalia,Chordata,Reptilia,Testudines,Testudinidae,Agrionemys,Agrionemys horsfieldii
+750,Animalia,Chordata,Mammalia,Carnivora,Felidae,Smilodon,Smilodon populator
+751,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Martes,Martes zibellina
+753,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Saiga,Saiga tatarica
+756,Animalia,Chordata,Chondrichthyes,Lamniformes,Lamnidae,Lamna,Lamna ditropis
+759,Animalia,Chordata,Reptilia,Squamata,Lacertidae,Lacerta,Lacerta agilis
+760,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Pseudoryx,Pseudoryx nghetinhensis
+761,Animalia,Chordata,Reptilia,Squamata,Gekkonidae,Uroplatus,Uroplatus phantasticus
+762,Animalia,Chordata,Mammalia,artiodactyla,Bovidae,Capra,Capra hircus
+763,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Ara,Ara macao
+766,Animalia,Chordata,Mammalia,Artiodactlya,Bovidae,Oryx,Oryx Dammah
+768,Animalia,Chordata,Amphibia,Anura,Telmatobiidae,Telmatobius,Telmatobius culeus
+769,Animalia,Chordata,Actinopterygii,Syngnathiformes,Syngnathidae,Phycodurus,Phycodurus eques
+770,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Haliaeetus Savigny,Haliaeetus
+771,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Enhydra,Enhydra Lutris
+772,Animalia,Mollusca,Gastropoda,Nudibranchia,Opistobranches,Nudibranch,Nudibranchia
+773,Animalia,Chordata,Actinopterygii,Syngnathiformes,Syngnathidae,Hippocampus,Hippocampus
+775,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera borealis
+776,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Poicephalus,Poicephalus senegalus
+777,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leptailurus,Leptailurus serval
+778,Animalia,Chordata,Reptilia,Reptilia Order:	Squamata,Colubridae,Contia,Contia tenuis
+779,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,Ovis aries
+786,Animalia,Chordata,Aves,Pelecaniformes,Balaenicipitidae,Balaeniceps,Balaeniceps rex
+789,Animalia,Chordata,Actinopterygii,Perciformes,Osphronemidae,Betta,Betta splendens
+792,Animalia,Chordata,Mammalia,Cetartiodactyla,Bovidae,Capra,Capra sibirica
+794,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera Tigris Altaica
+799,Animalia,Chordata,Actinopterygii,Scombriformes,Scombridae,Katsuwonus,Katsuwonus pelamis
+801,Animalia,Chordata,Mammalia,Pilosa,Bradypodidae,Bradypus,Choloepus Hoffmani
+802,Animalia,Chordata,Reptilia,Squamata,Anguidae,Anguis,Anguis fragilis
+804,Animalia,Chordata,Reptilia,Testudines,Chelydridae,Chelydra,Chelydridae
+806,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera uncia
+808,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,Lepus americanus
+809,Animalia,Chordata,Aves,Strigiformes,Strigidae,Bubo,Bubo scandiacus
+811,Animalia,Chordata,Aves,Passeriformes,Passerelidae,Melospiza,Melospiza melodia
+812,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera Tigris Amoyensis
+813,Animalia,Chordata,Amphibia,Mesobatrachia,Pelobatidae,Pelobates,Mesobatrachia
+817,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Tremarctos,Tremarctos Ornatus
+818,Animalia,Chordata,Mammalia,Cetacea,Physeteridae,Physeter,Physeter macrocephalus
+819,Animalia,Chordata,Mammalia,Primates,Atelidae,Ateles,Simia Paniscus
+820,Animalia,Chordata,Chondrichthyes,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus brevipinna
+822,Animalia,Chordata,Chondrichthyes,Squaliformes,Squalidae,Squalus,Squalus acanthias
+823,Animalia,Chordata,Reptilia,Testudines,Geoemydidae,Heosemys,Heosemys spinosa
+824,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Cyanopsitta,Cyanopsitta spixii
+825,Animalia,Chordata,Actinopterygii,Lepisosteiformes,Lepisosteidae,Lepisosteus,Lepisosteus oculatus
+826,Animalia,Arthropoda,Insecta,Hemiptera,Fulgoridae,Lycorma,Lycorma delicatula
+828,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Antidorcas,Antidorcas marsupialis
+830,Animalia,Chordata,Mammalia,Primates,Cebidae,Saimiri,Saimiri
+831,Animalia,Chordata,Actinopterygii,Beryciformes,Holocentridae,Holocentrus,Holocentrus adscensionis
+832,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Elephas,Elephas Maximus Maximus
+836,Animalia,Chordata,Mammalia,Eulipotyphla,Talpidae,Condylura,Condylura cristata
+837,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,Mustela Erminea
+838,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Hyaena,Hyaena hyaena
+839,Animalia,Chordata,Amphibia,Anura,Hylidae,Litoria,Litoria nasuta
+840,Animalia,Chordata,Mammalia,Diprotodontia,Petauridae,Petaurus,Petaurus breviceps
+841,Animalia,Chordata,Reptilia,Testudines,Testudinidae,Centrochelys,Centrochelys sulcata
+842,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Elephas,Elephas Maximus Sumatranus
+843,Animalia,Chordata,Mammalia,Primates,Hominidae,Pongo,Pongo abelii
+844,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Dicerorhinus,Dicerorhinus Sumatrensis
+845,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera Tigris Sumatrae
+846,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Helarctos,Helarctos malayanus
+847,Animalia,Chordata,Actinopterygii,Siluriformes,Pangasiidae,Pangasianodon,Pangasianodon hypophthalmus
+848,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,Cygnus atratus
+850,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Mesocricetus,Mesocricetus auratus
+852,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Budorcas,Budorcas taxicolor
+854,Animalia,Chordata,Mammalia,Primates,Hominidae,Pongo,Pongo tapanuliensis
+855,Animalia,Arthropoda,Insecta,Hymenoptera,Pompilidae,Pepsis,Pepsis albocincta
+856,Animalia,Chordata,Mammalia,Primates,Tarsiidae,Tarsius,Tarsius
+857,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Sarcophilus,Sarcophilus harrisii
+858,Animalia,Chordata,Mammalia,Dasyuromorphia,ï¿½Thylacinidae,ï¿½Thylacinus,ï¿½Thylacinus cynocephalus
+859,Animalia,Chordata,Aves,Strigiformes,Strigidae,Strix,Strix aluco
+864,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,Paracheirodon,Paracheirodon Axelrodi
+867,Animalia,Chordata,Reptilia,Squamata,Agamidae,Moloch,Moloch horridus
+868,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,Vulpes ferrilata
+873,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera Tigris
+874,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,Cicindela,Cicindelinae
+875,Animalia,Chordata,Amphibia,Caudata,Ambystomatidae,Ambystoma,Ambystoma tigrinum
+876,Animalia,Chordata,Chondrichthyes,Carcharhiniformes,Carcharhinidae,Galeocerdo,Galeocerdo Cuvier
+881,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta,Tachycineta bicolor
+884,Animalia,Chordata,Reptilia,Sphenodontia,Sphenodontidae,Sphenodon,Sphenodon Punctatus
+885,Animalia,Chordata,Aves,Galliformes,Phasianidae,Meleagris,Meleagris
+887,Animalia,Chordata,Mammalia,Primates,Pitheciidae,Cacajao,Cacajao
+888,Animalia,Chordata,Aves,Passeriformes,Cettiidae,Cettia,Cettia diphone
+889,Animalia,Chordata,Aves,Passeriformes,Cotingidae,Cephalopterus,Cephalopterus
+891,Animalia,Mollusca,Cephalopoda,Vampyromorphida,Vampyroteuthidae,Vampyroteuthis,Vampyroteuthis infernalis
+892,Animalia,Chordata,Mammalia,Artiodactyla,Phocoenidae,Phocoena,Phocoena sinus
+893,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Chlorocebus,Chlorocebus pygerythrus
+894,Animalia,Chordata,Reptilia,Squamata,Sphaerodactylidae,Sphaerodactylus,Sphaerodactylus parthenopion
+897,Animalia,Chordata,Aves,Cathartiformes,Cathartidae,Cathartes,Cathartes aura
+898,Animalia,Chordata,Actinopterygii,Siluriformes,Clariidae,Clarias,Clarias batrachus
+899,Animalia,Chordata,Mammalia,Diprotodontia,Macropodidae,Macropus,Macropus
+900,Animalia,Chordata,Actinopterygii,Perciformes,Percidae,Sander,Sander vitreus
+901,Animalia,Chordata,Mammalia,Carnivora,Odobenidae,Odobenus,Odobenus rosmarus
+902,Animalia,Chordata,Aves,Procellariiforms,Diomedeidae,Diomedea,Diomedea exulans
+903,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Phacochoerus,Phacochoerus africanus
+904,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bubalus,Bubalus bubalis
+905,Animalia,Chordata,Reptilia,Squamata,Agamidae,Physignathus,Physignathus
+906,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Arvicola,Arvicola amphibius
+907,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,Mustela nivalis
+913,Animalia,Chordata,Mammalia,Primates,Hominidae,Gorilla,Gorilla Gorilla
+914,Animalia,Chordata,Mammalia,Primates,Hominidae,Gorilla,Gorilla gorilla gorilla
+915,Animalia,Chordata,Chondrichthyes,Orectolobiformes,Rhincodontidae,Rhincodon,Rhincodon Typus
+918,Animalia,Arthropoda,Insecta,Lepidoptera,Pieridae,Pieris,Pieris rapae
+919,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Ceratotherium,Ceratotherium simum
+920,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera tigris tigris
+921,Animalia,Chordata,Mammalia,Primates,Cebidae,Cebus,Cebus Capucinus
+923,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Haliaeetus,Haliaeetus albicilla
+925,Animalia,Chordata,Aves,Gruiformes,Gruidae,Grus,Grus americana
+926,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,Sus scrofa
+927,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Connochaetes,Connochaetes Taurinus
+928,Animalia,Chordata,Aves,Passeriformes,Phylloscopidae,Phylloscopus,Phylloscopus trochilus
+932,Animalia,Chordata,Actinopterygii,Perciformes,Anarhichadidae,Anarrhichthys,Anarrhichthys ocellatus
+933,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Gulo,Gulo gulo
+934,Animalia,Chordata,Mammalia,Diprotodontia,Vombatidae,Vombatus,Vombatus Ursinus
+935,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bison,Bison bison athabascae
+936,Animalia,Chordata,Amphibia,Anura,Ranidae,Lithobates,Lithobates sylvaticus
+937,Animalia,Arthropoda,Malacostraca,Isopoda,Armadillidiidae,Armadillidium,Armadillidium vulgare
+938,Animalia,Arthropoda,Arachnida,Araneae,Dysderidae,Dysdera,Dysdera crocata
+939,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Mammuthus,Mammuthus Primigenius
+940,Animalia,Chordata,Mammalia,Primates,Atelidae,Lagothrix,Lagothrix Lagotricha
+941,Animalia,Chordata,Amphibia,Anura,Bufonidae,Anaxyrus,Anaxyrus Baxteri
+942,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,Pristella,Pristella maxillaris
+944,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bos,Bos grunniens
+946,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Megadyptes,Megadyptes antipodes
+947,Animalia,Chordata,Actinopterygii,Scombriformes,Scombridae,Thunnus,Thunnus albacares
+952,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,"Equus zebra, Equus quagga, Equus grevyi"
+953,Animalia,Chordata,Aves,Passeriformes,Estrildidae,Taeniopygia,Taeniopygia guttata
+954,Animalia,Mollusca,Bivalvia,Myida,Dreissenidae,Dreissena,Dreissena polymorpha
+955,Animalia,Chordata,Actinopterygii,Siluriformes,Loricariidae,Hypancistrus,Hypancistrus zebra
+956,Animalia,Chordata,Chondrichthyes,Orectolobiformes,Stegostomatidae,Stegostoma,Stegostoma Fasciatum
+957,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bos,Bos taurus indicus
+958,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,Equus zebra x Equus asinus
+959,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,Equus zebra x Equus caballus

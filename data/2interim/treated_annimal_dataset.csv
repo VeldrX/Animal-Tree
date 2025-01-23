@@ -5,7 +5,7 @@ African Elephant,290.0,4350.0,Grey,65.0,Herbivore,"Savannah, Forest","Lions, Hye
 African Lion,95.0,185.0,Tan,12.0,Carnivore,"Grasslands, Savannas","Hyenas, Crocodiles",58,Africa,Vulnerable,Felidae,101.5,80,Group-based,2-4 (usually)
 African Wild Dog,77.5,27.0,Multicolored,11.0,Carnivore,Savannahs,"Lions, Hyenas",56,Sub-Saharan Africa,Endangered,Canidae,70,56,Group-based,11.0
 Alpine Ibex,84.0,69.5,Brown,17.5,Herbivore,"Mountains, Alpine","Wolves, Golden Eagles",60.0,European Alps,Least Concern,Bovidae,150,60.0,Group-based,1
-American Bison,169.0,"318-1,000",Brown,17.5,Herbivore,"Grasslands, Plains","Wolves, Grizzly Bears",48.0,North America,Near Threatened,Bovidae,280.0,56,Group-based,1
+American Bison,169.0,659.0,Brown,17.5,Herbivore,"Grasslands, Plains","Wolves, Grizzly Bears",48.0,North America,Near Threatened,Bovidae,280.0,56,Group-based,1
 Anteater,71.5,31.5,"Brown, White",17.5,Insectivore,"Grasslands, Forests","Jaguars, Pumas",24,Central and South America,Least Concern,Myrmecophagidae,200.0,24,Solitary,1
 Arabian Oryx,80.0,77.5,White,15.0,Herbivore,Desert,"Lions, Leopards",55,Middle East,Vulnerable,Bovidae,225.0,55,Herd-based,1
 Arctic Fox,27.5,5.75,White,4.5,Omnivore,Tundra,Polar Bears,60,Arctic regions,Least Concern,Canidae,56.0,60,Solitary,7.5
@@ -22,7 +22,7 @@ Barbary Macaque,75.0,9.0,"Brown, Gray",30.0,"Herbivore, Omnivore","Forests, Moun
 Basking Shark,1100.0,550.0,"Gray, Brown",22.5,Carnivore,Oceans,"Orcas, Great White Sharks",21.0,Worldwide,Vulnerable,Cetorhinidae,36-42 months,21.0,Solitary,3.0
 Bengal Fox,37.5,3.25,Yellowish-gray,7.0,Omnivore,Grasslands,"Wolves, Birds of Prey",40,"India, Nepal, Bhutan",Least Concern,Canidae,55.0,40,Solitary,3.5
 Bengal Tiger,100.0,240.0,"Orange, Black",12.5,Carnivore,"Grasslands, Mangroves","Humans, Crocodiles",65,"India, Bangladesh, Nepal",Endangered,Felidae,105.0,65,Solitary,2-4 (usually)
-Black Rhinoceros,156.0,"800-1,400","Gray, Black",42.5,Herbivore,"Grasslands, Forests","Lions, Hyenas",56,Eastern and Southern Africa,Critically Endangered,Rhinocerotidae,465.0,56,Solitary,1
+Black Rhinoceros,156.0,1100.0,"Gray, Black",42.5,Herbivore,"Grasslands, Forests","Lions, Hyenas",56,Eastern and Southern Africa,Critically Endangered,Rhinocerotidae,465.0,56,Solitary,1
 Blue Jay,26.0,0.095,"Blue, White",10.5,Omnivore,"Forests, Urban Areas","Birds of Prey, Snakes",32,North America,Least Concern,Corvidae,17.5,32,Flocks,4.0
 Blue Whale,33.5m,200 tons,Blue-grey,80.0,Filter Feeder,Oceans,Orcas,40,Oceans worldwide,Endangered,Balaenopteridae,10-12 months,39,Solitary,1 (rarely 2)
 Blue-Footed Booby,83.0,2.25,"Blue, White",14.5,Piscivore,Coastal Areas,"Orcas, Sharks",30.0,Eastern Pacific (GalÃ¡pagos Islands),Least Concern,Sulidae,43.0,30.0,Group-based,1

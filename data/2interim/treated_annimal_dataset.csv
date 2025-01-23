@@ -52,18 +52,15 @@ Frilled Lizard,90.0,0.5,"Brown, Grey",12.5,"Insectivore, Herbivore",Northern Aus
 GalÃ¡pagos Penguin,51.0,2.0,"Black, White",15.0,Carnivore,Coastal Areas,"Orcas, Sharks",29.5,GalÃ¡pagos Islands,Endangered,Spheniscidae,40,29.5,Solitary,1
 Galápagos Penguin,50.5,2.15,"Black, White",17.5,"Carnivore, Piscivore",Galápagos Islands,"Sharks, Birds",6.5,Galápagos Islands,Endangered,Spheniscidae,39.0,35,Colony-based,1
 Galápagos Tortoise,183.0,417.0,"Brown, Grey",125.0,Herbivore,Galápagos Islands,"Humans, Rats",0.4,Galápagos Islands,Vulnerable,Testudinidae,135,0.3,Solitary,16.0
-Galliformes,Varies,Varies,Varies,Varies,Omnivore,Varies,Varies,Varies,Worldwide,Varies,Phasianidae,Varies,Varies,Varies,Varies
 Gaur,240.0,950.0,"Dark Brown, Black",22.5,Herbivore,"Grasslands, Forests","Tigers, Leopards",35.0,"Southeast Asia, South Asia",Vulnerable,Bovidae,277.5,35.0,Herd-based,1
 Gerenuk,92.5,40.0,"Brown, White",9.0,Herbivore,"Savannas, Scrublands","Lions, Leopards",55,"Eastern Africa, Horn of Africa",Near Threatened,Bovidae,192.5,95,Solitary,1
 Gharial,600.0,1500.0,Brownish-gray,50.0,Carnivore,"Rivers, Lakes","Crocodiles, Tigers",32,Indian subcontinent,Critically Endangered,Gavialidae,108.5,32,Solitary,57.5
-Giant Pacific Octopus,5.0,25.0,"Red, Brown",4.0,Carnivore,Ocean Floor,"Fish, Sharks",24,Pacific Ocean,Data Deficient,Enteroctopodidae,60.0,24,Solitary,"200,000"
 Giant Panda,80.0,97.5,"Black, White",25.0,Herbivore,Temperate Broadleaf Forests,Snow Leopards,32,China,Endangered,Ursidae,127.5,32,Solitary,1
 Golden Lion Tamarin,35.0,0.7,"Golden, Reddish-brown",12.5,Omnivore,Tropical Rainforests,"Birds, Snakes",10.5,"Brazil, Southeastern Bahia",Endangered,Callitrichidae,127.5,10.5,Social groups,2.0
 Golden Poison Dart Frog,4.5,2.4,Various,13.5,Insectivore,Rainforests,Snakes,0.3,Western Colombia,Near Threatened,Dendrobatidae,14,0.3,Solitary,40.0
 Great White Shark,610.0,2268.0,Grey,35.0,Carnivore,Oceans,Orcas,56,Oceans worldwide,Vulnerable,Lamnidae,12-18 months,56,Solitary,2-14 (approx.)
 Great White Shark,670.0,2268.0,"Gray, White",70,Carnivore,Oceans,Orcas,56,Worldwide,Vulnerable,Lamnidae,15.0,56,Solitary,9.5
 Green Anaconda,550.0,97.5,Olive-green,12.5,Carnivore,"Swamps, Marshes","Jaguars, Caymans",16-24 (in water),South America,Least Concern,Boidae,155.0,24,Solitary,80.0
-Green Sea Turtle,120.0,200.0,Greenish-brown,90.0,Herbivore,"Oceans, Coastal Areas",Predatory Fish,2.4000000000000004,Oceans worldwide,Endangered,Cheloniidae,57.5,35,Solitary,Varies
 Grevy's Zebra,145.0,400.0,"White, Black",25.0,Herbivore,Grasslands,"Lions, Hyenas",64,Eastern Africa,Endangered,Equidae,393.0,64,Herd-based,1
 Harp Seal,180.0,160.0,"Silver, Gray",27.5,Carnivore,"Arctic, Atlantic Ocean","Polar Bears, Orcas",20.5,"Arctic, Atlantic Ocean",Least Concern,Phocidae,335,28,Group-based,1
 Harpy Eagle,96.5,6.75,"Black, White",30.0,Carnivore,Rainforests,"Jaguars, Snakes",50,Central and South America,Near Threatened,Accipitridae,57.0,50,Solitary,1
@@ -79,14 +76,12 @@ King Cobra,550.0,9.0,Olive-green,25.0,Carnivore,"Grasslands, Forests","Birds, Sn
 Kiwi,35.5,2.15,Brown,37.5,Omnivore,Forests,"Stoats, Cats",8.0,New Zealand,Vulnerable,Apterygidae,77.5,9,Solitary,1
 Komodo Dragon,300.0,90.0,Grey,25.0,Carnivore,"Islands, Grasslands","Humans, Larger Predators",20,Indonesia,Vulnerable,Varanidae,7-8 months,20,Solitary,22.5
 Lemur,40.0,2.05,Various,20.0,Omnivore,"Rainforests, Madagascar","Fossa, Hawks",26.5,Madagascar,Vulnerable,Lemuridae,136.0,29,Group-based,1.5
-Lemur,47.5,2.55,Varies,20.0,Herbivore,Forests,Fossa,29,Madagascar,Critically Endangered,Lemuridae,127.5,29,Group-based,1
 Lion-tailed Macaque,52.5,6.25,Black,25.0,"Omnivore, Herbivore","Western Ghats, India","Tigers, Leopards",35.0,India,Endangered,Cercopithecidae,160.0,35,Social groups,1
 Manatee,350.0,495.0,"Gray, Brown",50.0,Herbivore,"Rivers, Coastal Areas","Alligators, Sharks",8,"North, Central, and South America",Vulnerable,Trichechidae,407.5,8,Solitary,1
 Mandrill,75.0,55.0,"Brown, Green",30.0,Omnivore,Rainforests,"Leopards, Humans",30,Central Africa,Vulnerable,Cercopithecidae,182.5,30,Social groups,1
 Maned Wolf,87.0,22.5,Reddish-Brown,7.0,Omnivore,"Grasslands, Forests","Jaguars, Pumas",56,South America,Near Threatened,Canidae,67.5,56,Solitary,4.0
 Markhor,115.0,110.0,"Brown, Gray",11.5,Herbivore,Mountains,"Wolves, Snow Leopards",52.0,"Central Asia, South Asia, Middle East",Near Threatened,Bovidae,152.5,52.0,Solitary,1.5
 Meerkat,30.0,0.8,"Brown, Tan",13.0,"Omnivore, Insectivore",Arid regions,"Eagles, Jackals",32,"Kalahari Desert, Africa",Least Concern,Herpestidae,71.5,32,Social groups,3.5
-Monitor Lizard,244.0,166.0,Varies,Varies,Carnivore,Various,"Birds, Snakes",Varies,"Africa, Asia, Australia, Oceania",Varies,Varanidae,Varies,Varies,Solitary,Varies
 Mountain Gorilla,160.0,135.0,"Black, Brown",37.5,Herbivore,"Rainforests, Mountains","Leopards, Humans",40,"Democratic Republic of Congo, Uganda",Endangered,Hominidae,262.5,40,Group-based,1
 Narwhal,500.0,1600.0,"Gray, Mottled White",55.0,Carnivore,Arctic Waters,"Polar Bears, Orcas",45,Arctic,Near Threatened,Monodontidae,14-16 months,45,Solitary,1
 Numbat,40.0,0.66,"Red, White",5.0,Insectivore,Eucalyptus Forests,"Foxes, Cats",8,Western Australia,Endangered,Myrmecobiidae,14,8,Solitary,5.0
@@ -126,7 +121,6 @@ Sun Bear,135.0,53.5,Black,27.5,Omnivore,Tropical Forests,"Tigers, Leopards",44.0
 Tapir,95.0,275.0,"Brown, Black",27.5,Herbivore,"Rainforests, Grasslands","Jaguars, Crocodiles",48,South and Central America,Vulnerable,Tapiridae,392.5,48,Solitary,1
 Tarsier,16.0,0.2,"Gray, Brown",16.0,Insectivore,Rainforests,"Birds, Snakes",45.0,"Southeast Asia, Philippines",Vulnerable,Tarsiidae,195.0,45.0,Solitary,1
 Tasmanian Devil,53.0,9.0,"Black, White",6.5,"Carnivore, Scavenger","Forests, Grasslands",Tasmanian Tigers,16,"Tasmania, Australia",Endangered,Dasyuridae,24.5,16,Solitary,25.0
-Tasmanian Tiger,115.0,25.0,Yellow-brown,5.5,Carnivore,Australia,"Humans, Dingoes",56.0,Australia,Extinct,Thylacinidae,124.5,56.0,Solitary,1-4 (usually 2-3)
 Three-Toed Sloth,52.0,8.0,"Brown, Gray",10,Herbivore,Rainforests,Harpy Eagles,20,Central and South America,Least Concern,Bradypodidae,35.0,20,Solitary,1.5
 Tiger,120.5,245.0,"Orange, Black Stripes",12.5,Carnivore,Rainforests,"Humans, Leopards",28,"Asia, Russia",Endangered,Felidae,295.0,28,Solitary,2.5
 Toco Toucan,60.0,620.0,"Black, Orange, Yellow",8.0,Omnivore,Rainforests,"Birds of Prey, Jaguars",35.5,South America,Least Concern,Ramphastidae,18.5,60.0,Flocks,3.0
